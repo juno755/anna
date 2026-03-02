@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align:center;
+    color:#7e7070 ;
+}
+
+header {
+    background-color:#edb6b1 ;
+    padding: 15px;
+    border:  #eba7a0 solid 6px ;
+}
+
+.link-header {
+    background-color: aliceblue;
+    color:black;
+    padding: 5px;
+    border: #FFB573 solid 5px;
+    border-radius:10px;
+    text-decoration:none;
+}
+
+.link-header:hover {
+    background-color:#FFB573 ;
+    border:  aliceblue 3px dashed;
+}
+
+main {
+   background-color: #f5ceca;
+   padding: 15px;
+   border-left: #eba7a0 solid 4px;
+   border-right: #eba7a0 solid 4px;
+}
+
+.link-nav {
+       background-color: aliceblue;
+    color:black;
+    padding: 5px;
+    border: #FFB573 solid 5px;
+    border-radius:10px;
+    text-decoration:none;
+}
+
+.link-nav:hover {
+    background-color:#FFB573 ;
+    border:  aliceblue 3px dashed;
+}
